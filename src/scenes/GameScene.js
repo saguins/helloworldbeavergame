@@ -1,3 +1,12 @@
+let platforms;
+let player;
+let cursors;
+let logs;
+let score = 0;
+let scoreText;
+let bomb;
+let bombs;
+let gameover = false;
 
 let width;
 let height;
